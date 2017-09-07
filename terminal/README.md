@@ -8,9 +8,9 @@ Key/Command | Description
 `Ctrl + U` | Clear the line before the cursor
 `Ctrl + K` | Clear the line after the cursor
 `Ctrl + R` | Lets you search through previously used commands
-`.       ` | Hit enter to confirm
-`.       ` | Use left/right arrows to change command before running
-`.       ` | Hit Ctrl + R again to find next matching command
+`       ` | Hit enter to confirm
+`       ` | Use left/right arrows to change command before running
+`       ` | Hit Ctrl + R again to find next matching command
 `Command + K` | Clears the Screen
 `Ctrl + C` | Kill whatever you are running
 `Ctrl + D` | Exit the current shell
