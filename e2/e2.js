@@ -22,6 +22,6 @@ Array.prototype.compare = function(array) {
 	return true;
 }
 
-console.assert(difference([1, 2, 3], [100, 2, 1, 10]).compare(["3", "10", "100"]), 'test1');
-console.assert(difference([1, 2, 3, 4, 5], [1, [2], [3, [[4]]],[5,6]]).compare(["6"]), 'test2');
-console.assert(difference([1, 2, 3], [100, 2, 1, 10]).compare(["3", "10", "100"]), 'test3');
+console.assert(difference([1, 2, 3], [100, 2, 1, 10]).compare([3, 10, 100]), 'test1');
+console.assert(difference([1, 2, 3, 4, 5], [1, [2], [3, [[4]]],[5,6]]).compare([6]), 'test2');
+console.assert(difference([1, 2, 3], [100, 2, 1, 10]).compare([3, 10, 100]), 'test3');
