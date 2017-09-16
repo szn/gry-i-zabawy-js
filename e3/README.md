@@ -7,7 +7,7 @@ All you need to do is to fill the `drawSin()` function defined in `e3.js` file.
 
 Here is how the final result should look alike:
 
-!(https://raw.githubusercontent.com/szn/gry-i-zabawy-js/master/e3/sin.png)
+![sin](https://raw.githubusercontent.com/szn/gry-i-zabawy-js/master/e3/sin.png "Sinus example")
 
 To make it even simpler there are two variables defined (`maxx` and `maxy`)
 that reflects your canvas size.
